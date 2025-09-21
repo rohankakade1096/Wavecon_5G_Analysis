@@ -4,7 +4,7 @@
 Wavecon Telecom recently launched 5G services to enhance customer experience and strengthen market position. The project analyzed business outcomes post-5G launch, focusing on revenue trends, KPI performance, and plan-wise results to provide actionable insights.
 
 📊 **Live Dashboard:**  
-[Wavecon 5G Dashboard](https://lnkd.in/deUbzHjW)
+[Wavecon 5G Dashboard]([https://lnkd.in/deUbzHjW](https://app.powerbi.com/view?r=eyJrIjoiODIyZTlkOTYtNGRmNi00NGQ4LTg4NzUtMzBhMGNjOTJiNDQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 🌟 **Project Highlights:**  
 - 💰 **Revenue Impact:** Total revenue declined from ₹15.98B → ₹15.90B (-0.5%, ≈₹80M)  
